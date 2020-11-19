@@ -1,6 +1,6 @@
 S&P 500 Analytics by Magdalena Gawron
 
-Aim of this project is to gather the S&P 500 stock price and recommendation data and analysing it. 
+Aim of this project is to gather the S&P 500 stock price and recommendation data to analyse their behaviour over time. 
 Project has been created in Google Colab notebook in Python using BeautifulSoup, YFinance, YahooFinance, Pandas, NumPy and Matplotlib libraries.
 
 Project consits of two parts:
